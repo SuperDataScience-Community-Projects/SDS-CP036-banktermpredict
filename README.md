@@ -106,7 +106,6 @@ Link to dataset: https://archive.ics.uci.edu/dataset/222/bank+marketing
 - Build a user-friendly Streamlit app that takes client features as input and predicts subscription likelihood
 - Host the app on Streamlit Community Cloud
 
----
 
 ## 🔴 Advanced Track
 
